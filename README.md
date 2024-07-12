@@ -1,5 +1,7 @@
 # Crop_Yield_Prediction
-Crop yield prediction using advanced machine learning techniques.
+Crop yield prediction using advanced machine learning techniques.<br>
+Crop yield prediction model using Python and popular machine learning libraries such as 
+TensorFlow and scikit-learn.<br>
 # User Interface
 
 ![Screenshot 2024-07-12 230212](https://github.com/user-attachments/assets/7881164d-dbd4-4a73-84a4-4ffbae3b4638)
