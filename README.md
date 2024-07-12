@@ -2,6 +2,8 @@
 Crop yield prediction using advanced machine learning techniques.
 # User Interface
 
+![Screenshot 2024-07-12 230212](https://github.com/user-attachments/assets/7881164d-dbd4-4a73-84a4-4ffbae3b4638)
+
 # How to work with this project :
 
 1- Download the entire project and open it in Visual Studio Code 
