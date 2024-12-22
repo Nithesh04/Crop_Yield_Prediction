@@ -3,7 +3,7 @@ Crop yield prediction model using Python and popular machine learning libraries 
 TensorFlow and scikit-learn.<br>
 # User Interface
 
-![Screenshot 2024-07-12 230212](https://github.com/user-attachments/assets/7881164d-dbd4-4a73-84a4-4ffbae3b4638)
+![Screenshot 2024-12-22 190131](https://github.com/user-attachments/assets/914b369c-d93c-4118-aec0-b4dfa3d5eeb7)
 
 # How to work with this project :
 
